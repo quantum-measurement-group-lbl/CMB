@@ -3,7 +3,7 @@ code to provide numerical estimates for the minimum observation time required to
 
 foreground models are taken from  https://doi.org/10.1093/mnras/stx1653.
 
-To download template files for CO and AME go to https://github.com/mabitbol/sd_foregrounds
+To download template files for CO and AME go to https://github.com/mabitbol/sd_foregrounds.
 
 ## Tuning instrumental parameters, fiducial foreground parameters
 fiducial parameters are listed at the beginning of the paper, one can change the instrumental specifications (frequency range, total etendue, bandwidth and so on) as well as the fiducial foreground parameter models by changing the values in these cells.
